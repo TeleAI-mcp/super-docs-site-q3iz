@@ -1,2 +1,3 @@
-# super-docs-site-q3iz
-Automated issue comment bot repository
+# Super Docs Site Q3Iz
+
+Automated issue comment bot repository.
